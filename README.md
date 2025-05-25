@@ -43,7 +43,7 @@ Git
 🛠️ Installation
 
 Clone the repository
-bashgit clone https://github.com/yourusername/healthflow-remix.git
+bashgit clone https://github.com/yourusername/healthflowpro-remix.git
 cd healthflow-remix
 
 Install dependencies
