@@ -1,4 +1,4 @@
-HealthFlow - Personal Health Management App
+HealthFlow-Pro - Personal Health Management App
 A modern, full-stack health management application built with Remix, designed to help users track their wellness journey, manage medical records, and maintain healthy habits.
 🌟 Features
 Core Functionality
@@ -178,9 +178,9 @@ All beta testers who provided valuable feedback
 
 📞 Contact
 
-Email: contact@healthflow.com
-Website: https://healthflow.com
-Documentation: https://docs.healthflow.com
+Email: contact@healthflowpro.com
+Website: https://healthflowpro.com
+Documentation: https://docs.healthflowpro.com
 
 
 Disclaimer: This application is for informational purposes only and should not replace professional medical advice. Always consult with healthcare professionals for medical decisions.
