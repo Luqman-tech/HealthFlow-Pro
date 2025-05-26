@@ -1,3 +1,10 @@
+Collaborators
+
+Nomthandazo Cynthia Motau
+Jennifer Mokoenyema
+Hellen Adhiambo 
+Philip Iringo Paul kiruthu
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 HealthFlow-Pro - Personal Health Management App
 A modern, full-stack health management application built with Remix, designed to help users track their wellness journey, manage medical records, and maintain healthy habits.
 🌟 Features
